@@ -1,1 +1,1 @@
-Shell permission
+Linux file permissions
